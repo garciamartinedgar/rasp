@@ -5,9 +5,9 @@
 
 int main()
 {
-int a = 3;
+int a = 6;
 int b = 4;
-int c = 1;
+int c = 2;
 int resultado = 0;
  resultado = a +pow(b,2) - c;
  printf("resultado",resultado );
