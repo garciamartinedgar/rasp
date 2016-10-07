@@ -5,8 +5,8 @@
 
 int main()
 {
-int a = 5;
-int b = 3;
+int a = 3;
+int b = 4;
 int c = 1;
 int resultado = 0;
  resultado = a +pow(b,2) - c;
